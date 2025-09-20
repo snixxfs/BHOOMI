@@ -39,6 +39,4 @@ Try it out here:
 🏆 BHOOMI is ready to revolutionize Ayurvedic herb traceability for the Smart India Hackathon 2025!  
 
 
-[6](https://github.com/othneildrew/Best-README-Template)
-[7](https://www.youtube.com/watch?v=rCt9DatF63I)
-[8](https://readme.so)
+
